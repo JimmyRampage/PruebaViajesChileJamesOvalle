@@ -1,0 +1,18 @@
+/*  */
+* {
+  font-family: "Cabin", sans-serif;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+nav {
+  background-color: #ffffff00;
+}
+
+/* clase creada para trabajar con jQuery y cambiar el color del nav al click */
+.background-color1 {
+  background-color: rgb(53, 171, 192);
+}
